@@ -1,7 +1,7 @@
 ![MasterHead](banner.png)
 <!-- ![GitHub Logo](/images/github-logo.png) -->
 <h1 align="center">Hi 👋, I'm Manu Sharma</h1>
-<h3 align="center">I have solved 10000+ Leetcode Questions. I am literally God.</h3>
+<h3 align="center">I have solved 10000+ Leetcode Questions.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Strategies & Life**
 
-- ⚡ Fun fact **C'mon the subtitle was supposed to be a joke.**
+- ⚡ Fun fact **C'mon the subtitle was supposed to be a joke. Take it easy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
