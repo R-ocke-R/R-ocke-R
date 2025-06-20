@@ -2,7 +2,9 @@
 <!-- ![GitHub Logo](/images/github-logo.png) -->
 <h1 align="center">Hi 👋, I'm Manu Sharma</h1>
 
-- 🌱 I’m currently looking forward to learning **Django or Web3**
+- Worked as a Presales Analyst for a year.
+- Buliding $3-4K MRR Agency by the end of the year.
+- I've stopped keeping any backup plans.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
