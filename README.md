@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manu Sharma</h1>
 
 - Worked as a Presales Analyst for a year.
-- Buliding $3-4K MRR Agency by the end of the year.
+- Learning how to build an Agency.
 - I've stopped keeping any backup plans.
 
 <h3 align="left">Connect with me:</h3>
