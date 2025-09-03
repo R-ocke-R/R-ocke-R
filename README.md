@@ -4,7 +4,6 @@
 
 - Worked as a Presales Analyst for a year.
 - Learning how to build an Agency.
-- I've stopped keeping any backup plans.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
