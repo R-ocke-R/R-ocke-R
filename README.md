@@ -17,14 +17,5 @@
 <a href="https://www.leetcode.com/r_ocke_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_ocke_r" height="30" width="40" /></a>
 </p>
 
----
-
-
-<p><img align="center" width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=r-ocke-r&show_icons=true&locale=en&layout=compact" alt="r-ocke-r" /></p>
-
----
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-ocke-r&show_icons=true&locale=en" alt="r-ocke-r" /></p>
 
 
